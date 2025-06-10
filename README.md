@@ -5,6 +5,7 @@ Um aplicativo leve e simples para baixar vídeos do YouTube em alta qualidade, c
 
 ## 🚀 Funcionalidades
 
+- Não coleta dados!
 - Baixa vídeos com **áudio e vídeo combinados** (sem múltiplos arquivos).
 - Interface gráfica intuitiva com **Tkinter**.
 - Mostra **barra de progresso**, **tamanho do arquivo** e **velocidade de download**.
@@ -25,9 +26,7 @@ Um aplicativo leve e simples para baixar vídeos do YouTube em alta qualidade, c
 ## 📷 Capturas de tela
 
 [GsrI5uMWEAAQstn](https://github.com/user-attachments/assets/b7ecf2d2-72c5-4a6e-b95b-e4125cfc427a)
-![GsrI5uMWEAAQstn](https://github.com/user-attachments/assets/a8bf9320-9536-4880-b0d2-3cc4a0f67034)
 
----
 
 ## 🛠 Como foi feito
 
